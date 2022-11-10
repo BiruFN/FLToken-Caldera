@@ -1,6 +1,9 @@
 # FLToken-Caldera
 FLToken&amp;Caldera
 
+# FLToken&Caldera
+These are sort of command lines passed from FortniteLauncher.exe to the client
+
 | Build  | FLToken&Caldera |
 | ------------- | ------------- |
 | 3.2  | -nobe  |
