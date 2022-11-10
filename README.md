@@ -40,7 +40,12 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | ++Fortnite+Release-6.00 |  | -nobe -fromfl=eac |
 | ++Fortnite+Release-6.01 |  | -nobe -fromfl=eac |
 | ++Fortnite+Release-6.02 |  | -nobe -fromfl=eac |
-
+| ++Fortnite+Release-6.10 |  | -nobe -fromfl=eac -fltoken=8682a0abb2b3ee86d8c2bc403b372f59626d0609700108131a5b5b443c4eb4beada99a99f6808883fbeaa6d1d1decec835777729 |
+| ++Fortnite+Release-6.20 |  | -nobe -fromfl=eac -fltoken=858da0abb2b3ee86d8c2bc403b372f59626d0609700108131a5b5b443c4eb4beada99a99f6808883fbeaa6d1d189909b6077717810121e |
+| ++Fortnite+Release-6.21 |  | -nobe -fromfl=eac -fltoken=858da0abb2b3ee86d8c2bc403b372f59626d0609700108131a5b5b443c4eb4beada99a99f6808883fbeaa6d1d189909b6077717810121e |
+| ++Fortnite+Release-6.22 |  | -nobe -fromfl=eac -fltoken=858da0abb2b3ee86d8c2bc403b372f59626d0609700108131a5b5b443c4eb4beada99a99f6808883fbeaa6d1d189909b6077717810121e |
+| ++Fortnite+Release-6.30 |  | -nobe -fromfl=eac -fltoken=8483a0abb2b3ee86d8c2bc403b372f59626d0609700108131a5b5b443c4eb4beada99a99f6808883fbeaa6d1d18a929b6077257f10441e |
+| ++Fortnite+Release-6.31 |  | -nobe -fromfl=eac -fltoken=8483a0abb2b3ee86d8c2bc403b372f59626d0609700108131a5b5b443c4eb4beada99a99f6808883fbeaa6d1d18a929b6077257f10441e |
 # Chapter1 Season7
 | Client Version  | Token Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
