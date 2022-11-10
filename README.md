@@ -140,3 +140,31 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | ++Fortnite+Release-15.30 | FLToken | -nobe -fromfl=eac -fltoken=g9h643h90305g81d572de9a6 |
 | ++Fortnite+Release-15.40 | FLToken | -nobe -fromfl=eac -fltoken=c4c13cd6e9h422f9g91aa88a |
 | ++Fortnite+Release-15.50 | FLToken | -nobe -fromfl=eac -fltoken=4bg9h3i0i3030921f531e3c1 |
+# Chapter2 Season6
+| Client Version  | Type | EasyAntiCheat |
+| ------------- | ------------- | ------------- |
+| ++Fortnite+Release-16.00 | FLToken | -nobe -fromfl=eac -fltoken=50b06570788bda9197a24F46 |
+| ++Fortnite+Release-16.10 | FLToken | -nobe -fromfl=eac -fltoken=acb178bacaca45e479f39849 |
+| ++Fortnite+Release-16.20 | FLToken | -nobe -fromfl=eac -fltoken=44339658c56872708b8d3a3c |
+| ++Fortnite+Release-16.30 | FLToken | -nobe -fromfl=eac -fltoken=c4c4d4d80de43af5f96da572 |
+| ++Fortnite+Release-16.40 | FLToken | -nobe -fromfl=eac -fltoken=hb01030779ec30ed3746f9g7 |
+| ++Fortnite+Release-16.50 | FLToken | -nobe -fromfl=eac -fltoken=64c47c7c9ci39995abac5901 |
+# Chapter2 Season7
+| Client Version  | Type | EasyAntiCheat |
+| ------------- | ------------- | ------------- |
+| ++Fortnite+Release-17.00 | FLToken | -nobe -fromfl=eac -fltoken=4b976563b7e0768a8c93422c |
+| ++Fortnite+Release-17.10 | FLToken | -nobe -fromfl=eac -fltoken=c0cb77dbe4e21cf2g0gdaC74 |
+| ++Fortnite+Release-17.20 | FLToken | -nobe -fromfl=eac -fltoken=5360b1637173878a5a9a4938 |
+| ++Fortnite+Release-17.21 | FLToken | -nobe -fromfl=eac -fltoken=5360b1637173878a5a9a4938 |
+| ++Fortnite+Release-17.30 | FLToken | -nobe -fromfl=eac -fltoken=05e31d1bfd753044424b04h8 |
+| ++Fortnite+Release-17.40 | FLToken | -nobe -fromfl=eac -fltoken=7c818d90989664a665c76A2c |
+| ++Fortnite+Release-17.50 | FLToken | -nobe -fromfl=eac -fltoken=d9e80017f8g7gch1i306bea9 |
+# Chapter2 Season8
+| Client Version  | Type | EasyAntiCheat |
+| ------------- | ------------- | ------------- |
+| ++Fortnite+Release-18.00 | FLToken | -nobe -fromfl=eac -fltoken=h53c08080b991b333338f3g7 |
+| ++Fortnite+Release-18.10 | FLToken | -nobe -fromfl=eac -fltoken=222832424652963a5ab81eh9 |
+| ++Fortnite+Release-18.20 | FLToken | -nobe -fromfl=eac -fltoken=d5a0e0f224g3h1hb43i2bfbb |
+| ++Fortnite+Release-18.21 | FLToken | -nobe -fromfl=eac -fltoken=d5a0e0f224g3h1hb43i2bfbb |
+| ++Fortnite+Release-18.30 | FLToken | -nobe -fromfl=eac -fltoken=h9033a110d161ch03341f1bc |
+| ++Fortnite+Release-18.40 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiNThjZTBmM2NmYWI2NDE4OWFlOTM3ZGM0Y2M1ZGI5ZTUiLCJnZW5lcmF0ZWQiOjE2NjIzNzA3NTcsImNhbGRlcmFHdWlkIjoiZjVhNDVmYzYtY2ZmZC00ZTQzLTgxYmEtM2RkNDZjYzMwZjQwIiwiYWNQcm92aWRlciI6IkVhc3lBbnRpQ2hlYXQiLCJub3RlcyI6IiIsImZhbGxiYWNrIjpmYWxzZX0.9RDOJKqa_54-_TlDdgBUv5m9IGxcQmVOcnmha-oUze5UPT5tvyS81phlmbhrSG4Sr9XCPOpVaOnLvOB3xc7mFA |
