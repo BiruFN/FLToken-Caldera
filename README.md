@@ -120,3 +120,23 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | ++Fortnite+Release-13.20 | FLToken | -nobe -fromfl=eac -fltoken=529c77a4b7b792c9cddd8487 |
 | ++Fortnite+Release-13.30 | FLToken | -nobe -fromfl=eac -fltoken=5365b1ea7478878a9aa04908 |
 | ++Fortnite+Release-13.40 | FLToken | -nobe -fromfl=eac -fltoken=h70a0bga1b1d2a31ha17fcf2 |
+# Chapter2 Season4
+| Client Version  | Type | EasyAntiCheat |
+| ------------- | ------------- | ------------- |
+| ++Fortnite+Release-14.00 | FLToken | -nobe -fromfl=eac -fltoken=9398aa74bbc738d90c938852 |
+| ++Fortnite+Release-14.10 | FLToken | -nobe -fromfl=eac -fltoken=2b35gbhaha41020b1614dcd8 |
+| ++Fortnite+Release-14.20 | FLToken | -nobe -fromfl=eac -fltoken=40h559576073746c86863826 |
+| ++Fortnite+Release-14.30 | FLToken | -nobe -fromfl=eac -fltoken=c80cdde4f2f32d13h3hab9ba |
+| ++Fortnite+Release-14.40 | FLToken | -nobe -fromfl=eac -fltoken=595d6ab25588cc8b98964E3a |
+| ++Fortnite+Release-14.50 | FLToken | -nobe -fromfl=eac -fltoken=g22ahaha002809212124e3ab |
+| ++Fortnite+Release-14.60 | FLToken | -nobe -fromfl=eac -fltoken=c57a7d85849294a87ab6610b |
+# Chapter2 Season5
+| Client Version  | Type | EasyAntiCheat |
+| ------------- | ------------- | ------------- |
+| ++Fortnite+Release-15.00 | FLToken | -nobe -fromfl=eac -fltoken=52cbdae5e5f6f7gd2bh4b3b9 |
+| ++Fortnite+Release-15.10 | FLToken | -nobe -fromfl=eac -fltoken=bcb6c8d1d85200f3f9g8a285 |
+| ++Fortnite+Release-15.20 | FLToken | -nobe -fromfl=eac -fltoken=a6hdc5c353d2e2ea02f39654 |
+| ++Fortnite+Release-15.21 | FLToken | -nobe -fromfl=eac -fltoken=a6hdc5c353d2e2ea02f39654 |
+| ++Fortnite+Release-15.30 | FLToken | -nobe -fromfl=eac -fltoken=g9h643h90305g81d572de9a6 |
+| ++Fortnite+Release-15.40 | FLToken | -nobe -fromfl=eac -fltoken=c4c13cd6e9h422f9g91aa88a |
+| ++Fortnite+Release-15.50 | FLToken | -nobe -fromfl=eac -fltoken=4bg9h3i0i3030921f531e3c1 |
