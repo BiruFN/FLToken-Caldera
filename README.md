@@ -1,7 +1,7 @@
 # FLToken-Caldera
 FLToken&amp;Caldera
 
-| Builds Version  | token |
+| Build  | FLToken&Caldera |
 | ------------- | ------------- |
 | 3.2  | -nobe  |
 | 3.3  | -nobe  |
