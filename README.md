@@ -4,8 +4,6 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 # Chapter1 Season3
 | Client Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
-| ++Fortnite+Release-3.0.0 |  |  |
-| ++Fortnite+Release-3.1 |  |  |
 | ++Fortnite+Release-3.2 |  | -nobe |
 | ++Fortnite+Release-3.3 |  | -nobe |
 | ++Fortnite+Release-3.4 |  | -nobe |
