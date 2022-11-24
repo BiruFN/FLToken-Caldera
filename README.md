@@ -164,7 +164,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | ++Fortnite+Release-18.20 | FLToken | -nobe -fromfl=eac -fltoken=d5a0e0f224g3h1hb43i2bfbb |
 | ++Fortnite+Release-18.21 | FLToken | -nobe -fromfl=eac -fltoken=d5a0e0f224g3h1hb43i2bfbb |
 | ++Fortnite+Release-18.30 | FLToken | -nobe -fromfl=eac -fltoken=h9033a110d161ch03341f1bc |
-| ++Fortnite+Release-18.40 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiNThjZTBmM2NmYWI2NDE4OWFlOTM3ZGM0Y2M1ZGI5ZTUiLCJnZW5lcmF0ZWQiOjE2NjIzNzA3NTcsImNhbGRlcmFHdWlkIjoiZjVhNDVmYzYtY2ZmZC00ZTQzLTgxYmEtM2RkNDZjYzMwZjQwIiwiYWNQcm92aWRlciI6IkVhc3lBbnRpQ2hlYXQiLCJub3RlcyI6IiIsImZhbGxiYWNrIjpmYWxzZX0.9RDOJKqa_54-_TlDdgBUv5m9IGxcQmVOcnmha-oUze5UPT5tvyS81phlmbhrSG4Sr9XCPOpVaOnLvOB3xc7mFA |
+| ++Fortnite+Release-18.40 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjY2MzA5LCJjYWxkZXJhR3VpZCI6Ijk4OTJkNzA4LWE5ODItNDczYy04MzBiLTYyYzU2MDBjYTFkMyIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiIiLCJmYWxsYmFjayI6dHJ1ZX0.G6MZNH54MvImdJ_kcYkKJShJXjGZSP58aACy7pUYac8 |
 # Chapter3 Season1
 | Client Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
