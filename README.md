@@ -1,9 +1,33 @@
 # FLToken&Caldera
 These are sort of command lines passed from FortniteLauncher.exe to the client
 
+# Chapter1 Season1
+| Client Version  | Type | EasyAntiCheat |
+| ------------- | ------------- | ------------- |
+| ++Fortnite+Release-Cert |  |  |
+| ++Fortnite+Release-Cert |  |  |
+| ++Fortnite+Release-Live |  |  |
+| ++Fortnite+Release-Live |  |  |
+| ++Fortnite+Release-Cert |  |  |
+| ++Fortnite+Release-Cert |  |  |
+| ++Fortnite+Release-Cert |  |  |
+# Chapter1 Season2
+| Client Version  | Type | EasyAntiCheat |
+| ------------- | ------------- | ------------- |
+| ++Fortnite+Release-Cert |  |  |
+| ++Fortnite+Release-Cert |  |  |
+| ++Fortnite+Release-2.2.0 |  |  |
+| ++Fortnite+Release-2.3.0 |  |  |
+| ++Fortnite+Release-2.3.2 |  |  |
+| ++Fortnite+Release-2.4.0 |  |  |
+| ++Fortnite+Release-2.4.2 |  |  |
+| ++Fortnite+Release-2.4.x |  |  |
+| ++Fortnite+Release-2.5 |  |  |
 # Chapter1 Season3
 | Client Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
+| ++Fortnite+Release-3.0.0 |  |  |
+| ++Fortnite+Release-3.1 |  |  |
 | ++Fortnite+Release-3.2 |  | -nobe |
 | ++Fortnite+Release-3.3 |  | -nobe |
 | ++Fortnite+Release-3.4 |  | -nobe |
