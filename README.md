@@ -2,7 +2,7 @@
 These are sort of command lines passed from FortniteLauncher.exe to the client
 
 # Chapter1 Season1
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | Cert |  |  |
 | Cert |  |  |
@@ -12,7 +12,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | Cert |  |  |
 | Cert |  |  |
 # Chapter1 Season2
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | Cert |  |  |
 | Cert |  |  |
@@ -24,7 +24,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 2.4.x |  |  |
 | 2.5 |  |  |
 # Chapter1 Season3
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 3.0.0 |  |  |
 | 3.1 |  |  |
@@ -34,7 +34,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 3.5 |  | -nobe |
 | 3.6 |  | -nobe |
 # Chapter1 Season4
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 4.0 |  | -nobe |
 | 4.1 |  | -nobe |
@@ -44,7 +44,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 4.4.x |  | -nobe |
 | 4.5 |  | -nobe |
 # Chapter1 Season5
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 5.0 |  | -nobe |
 | 5.10 |  | -nobe |
@@ -54,7 +54,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 5.40 |  | -nobe -fromfl=eac |
 | 5.41 |  | -nobe -fromfl=eac |
 # Chapter1 Season6
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 6.00 |  | -nobe -fromfl=eac |
 | 6.01 |  | -nobe -fromfl=eac |
@@ -66,7 +66,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 6.30 | FLToken | -nobe -fromfl=eac -fltoken=8483a0abb2b3ee86d8c2bc403b372f59626d0609700108131a5b5b443c4eb4beada99a99f6808883fbeaa6d1d18a929b6077257f10441e |
 | 6.31 | FLToken | -nobe -fromfl=eac -fltoken=8483a0abb2b3ee86d8c2bc403b372f59626d0609700108131a5b5b443c4eb4beada99a99f6808883fbeaa6d1d18a929b6077257f10441e |
 # Chapter1 Season7
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 7.00 | FLToken | -nobe -fromfl=eac -fltoken=868ba0abb2b3ee86d8c2bc403b372f59626d0609700108131a5b5b443c4eb4beada99a99f6808883fbeaa6d1d189909b6077242810441e |
 | 7.01 | FLToken | -nobe -fromfl=eac -fltoken=868ba0abb2b3ee86d8c2bc403b372f59626d0609700108131a5b5b443c4eb4beada99a99f6808883fbeaa6d1d189909b6077242810441e |
@@ -75,7 +75,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 7.30 | FLToken | -nobe -fromfl=eac -fltoken=72bd8be891999da578b9643a |
 | 7.40 | FLToken | -nobe -fromfl=eac -fltoken=1d29g022h4h5050906g9d7b6 |
 # Chapter1 Season8
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 8.00 | FLToken | -nobe -fromfl=eac -fltoken=575862a9847575858c8c4418 |
 | 8.01 | FLToken | -nobe -fromfl=eac -fltoken=575862a9847575858c8c4418 |
@@ -87,7 +87,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 8.50 | FLToken | -nobe -fromfl=eac -fltoken=4d666a6cba208788919d4Cg0 |
 | 8.51 | FLToken | -nobe -fromfl=eac -fltoken=4d666a6cba208788919d4Cg0 |
 # Chapter1 Season9
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 9.00 | FLToken | -nobe -fromfl=eac -fltoken=0903101217273437h6440042 |
 | 9.01 | FLToken | -nobe -fromfl=eac -fltoken=0903101217273437h6440042 |
@@ -98,7 +98,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 9.40 | FLToken | -nobe -fromfl=eac -fltoken=b1bcbad787bde9f1f5f99fa4 |
 | 9.41 | FLToken | -nobe -fromfl=eac -fltoken=b1bcbad787bde9f1f5f99fa4 |
 # Chapter1 Season10
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 10.0 | FLToken | -nobe -fromfl=eac -fltoken=6dab8383579a04abacc565e0 |
 | 10.10 | FLToken | -nobe -fromfl=eac -fltoken=hbi2hc06dah41c283235f04c |
@@ -107,7 +107,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 10.31 | FLToken | -nobe -fromfl=eac -fltoken=g5gah6i3hae4111d1b24e160 |
 | 10.40 | FLToken | -nobe -fromfl=eac -fltoken=8bdba2a4a6c3c4c88bd87fd2 |
 # Chapter2 Season1
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 11.00 | FLToken | -nobe -fromfl=eac -fltoken=46da55556b606d79d8893ah5 |
 | 11.01 | FLToken | -nobe -fromfl=eac -fltoken=46da55556b606d79d8893ah5 |
@@ -120,7 +120,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 11.40 | FLToken | -nobe -fromfl=eac -fltoken=gcf8i3i1i30a1912gc2be8b2 |
 | 11.50 | FLToken | -nobe -fromfl=eac -fltoken=65aci08888919949a4a65c37 |
 # Chapter2 Season2
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 12.00 | FLToken | -nobe -fromfl=eac -fltoken=e1ebf8fcg3gdgbi33704c593 |
 | 12.10 | FLToken | -nobe -fromfl=eac -fltoken=d5995d5a70b578808c9c4406 |
@@ -133,14 +133,14 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 12.60 | FLToken | -nobe -fromfl=eac -fltoken=b76c62d5e3e43afdf2g4a564 |
 | 12.61 | FLToken | -nobe -fromfl=eac -fltoken=b76c62d5e3e43afdf2g4a564 |
 # Chapter2 Season3
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 13.00 | FLToken | -nobe -fromfl=eac -fltoken=6175bc888b9115a1a6b55c41 |
 | 13.20 | FLToken | -nobe -fromfl=eac -fltoken=529c77a4b7b792c9cddd8487 |
 | 13.30 | FLToken | -nobe -fromfl=eac -fltoken=5365b1ea7478878a9aa04908 |
 | 13.40 | FLToken | -nobe -fromfl=eac -fltoken=h70a0bga1b1d2a31ha17fcf2 |
 # Chapter2 Season4
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 14.00 | FLToken | -nobe -fromfl=eac -fltoken=9398aa74bbc738d90c938852 |
 | 14.10 | FLToken | -nobe -fromfl=eac -fltoken=2b35gbhaha41020b1614dcd8 |
@@ -150,7 +150,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 14.50 | FLToken | -nobe -fromfl=eac -fltoken=g22ahaha002809212124e3ab |
 | 14.60 | FLToken | -nobe -fromfl=eac -fltoken=c57a7d85849294a87ab6610b |
 # Chapter2 Season5
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 15.00 | FLToken | -nobe -fromfl=eac -fltoken=52cbdae5e5f6f7gd2bh4b3b9 |
 | 15.10 | FLToken | -nobe -fromfl=eac -fltoken=bcb6c8d1d85200f3f9g8a285 |
@@ -160,7 +160,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 15.40 | FLToken | -nobe -fromfl=eac -fltoken=c4c13cd6e9h422f9g91aa88a |
 | 15.50 | FLToken | -nobe -fromfl=eac -fltoken=4bg9h3i0i3030921f531e3c1 |
 # Chapter2 Season6
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 16.00 | FLToken | -nobe -fromfl=eac -fltoken=50b06570788bda9197a24F46 |
 | 16.10 | FLToken | -nobe -fromfl=eac -fltoken=acb178bacaca45e479f39849 |
@@ -169,7 +169,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 16.40 | FLToken | -nobe -fromfl=eac -fltoken=hb01030779ec30ed3746f9g7 |
 | 16.50 | FLToken | -nobe -fromfl=eac -fltoken=64c47c7c9ci39995abac5901 |
 # Chapter2 Season7
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 17.00 | FLToken | -nobe -fromfl=eac -fltoken=4b976563b7e0768a8c93422c |
 | 17.10 | FLToken | -nobe -fromfl=eac -fltoken=c0cb77dbe4e21cf2g0gdaC74 |
@@ -179,7 +179,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 17.40 | FLToken | -nobe -fromfl=eac -fltoken=7c818d90989664a665c76A2c |
 | 17.50 | FLToken | -nobe -fromfl=eac -fltoken=d9e80017f8g7gch1i306bea9 |
 # Chapter2 Season8
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 18.00 | FLToken | -nobe -fromfl=eac -fltoken=h53c08080b991b333338f3g7 |
 | 18.10 | FLToken | -nobe -fromfl=eac -fltoken=222832424652963a5ab81eh9 |
@@ -188,7 +188,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 18.30 | FLToken | -nobe -fromfl=eac -fltoken=h9033a110d161ch03341f1bc |
 | 18.40 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjY2MzA5LCJjYWxkZXJhR3VpZCI6Ijk4OTJkNzA4LWE5ODItNDczYy04MzBiLTYyYzU2MDBjYTFkMyIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiIiLCJmYWxsYmFjayI6dHJ1ZX0.G6MZNH54MvImdJ_kcYkKJShJXjGZSP58aACy7pUYac8 |
 # Chapter3 Season1
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 19.00 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjYyOTI2LCJjYWxkZXJhR3VpZCI6IjViMjU4YmRlLTVhODAtNGUyYi04YzBlLWJmNWY1MWNlZTAwOCIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiIiLCJmYWxsYmFjayI6dHJ1ZX0.jDmY9_GQmF3ti0hARhZiBlo-qkohJCKW6EkrYKJigyg |
 | 19.01 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjY0Njc3LCJjYWxkZXJhR3VpZCI6ImUyMDVkYWQ3LTUzZjEtNDQxNC04ZWQxLWJkMWNjNjliNjRmNSIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiIiLCJmYWxsYmFjayI6dHJ1ZX0.WT2CEJt7qBeeGR2oEKFmneqYaPmM5de1CYKmboN-a94 |
@@ -197,7 +197,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 19.30 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjYzMjI5LCJjYWxkZXJhR3VpZCI6ImQyNjZiMDIwLTQ0NmQtNDZlMi04ZGRkLWYyMmY0ZmIxYmMwYiIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiIiLCJmYWxsYmFjayI6dHJ1ZX0.acbCot818IPmgR8S-7l6EcbCiy8mTjQCRvFeqspUg3k |
 | 19.40 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjYzMzY1LCJjYWxkZXJhR3VpZCI6IjM3Nzc2OWFhLWY1NGYtNGM3ZC04NjliLWVkYTM5MjZmYWMxNyIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiIiLCJmYWxsYmFjayI6dHJ1ZX0._LiTgbGjE3km48nEMNbn8tFpWeIpcQFeRqqXcumoJFg |
 # Chapter3 Season2
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 20.00 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjYzNTA5LCJjYWxkZXJhR3VpZCI6Ijg2NjFiNDIyLWFlZDUtNDlhZS04ODc3LTc1YTQ5M2UzMDc3NCIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiIiLCJmYWxsYmFjayI6dHJ1ZX0.hi7uD0JpzgTLlGwQWkjpJArqPE27Lg5DTkUwCB1re1w |
 | 20.10 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjYzNjU0LCJjYWxkZXJhR3VpZCI6IjU4OTkyY2E5LWIwZGEtNGM2Mi1iY2ZjLWU4MzFjNTJmMGU4YSIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiIiLCJmYWxsYmFjayI6dHJ1ZX0.4z3xfHVyyHkHlydZG1Gq3eOFn-gdJNMzY8z_hr1BGoY |
@@ -205,7 +205,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 20.30 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjYzODUwLCJjYWxkZXJhR3VpZCI6IjdkMDYyNTU1LTI2MmQtNDU1Ny1hNGJhLTA5NGNmMmY5MzM0MiIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiJkb1JlcXVlc3QgZXJyb3I6IGRvUmVxdWVzdCBmYWlsdXJlIGNvZGU6IDQwMFxuIiwiZmFsbGJhY2siOnRydWV9.DT5XSwapPnsSaSXPTvdvcnldZk1ajuU5cYj41Rv3VTo |
 | 20.40 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjYzOTExLCJjYWxkZXJhR3VpZCI6IjY3NzQ4NDJjLWMxMDQtNGU5Ni04ODQ5LTMzMmM3YzA2Y2EyNCIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiJkb1JlcXVlc3QgZXJyb3I6IGRvUmVxdWVzdCBmYWlsdXJlIGNvZGU6IDQwMFxuIiwiZmFsbGJhY2siOnRydWV9.faMyeRuHdP9BNoBGD9jpNz-2Xt7s02ehM1DgG4AHasA |
 # Chapter3 Season3
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 21.00 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjY0MDg5LCJjYWxkZXJhR3VpZCI6ImY3YTk0OTE3LTU2NjktNDU3NC04ODM5LTMxODk4ZmI1ZWQyMCIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiJkb1JlcXVlc3QgZXJyb3I6IGRvUmVxdWVzdCBmYWlsdXJlIGNvZGU6IDQwMFxuIiwiZmFsbGJhY2siOnRydWV9.by5cyoSKgQ0kc0Tl86uFo3r_qOxOCPlisPUF7awVjyA |
 | 21.10 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjY0MjAyLCJjYWxkZXJhR3VpZCI6ImVjMGY2YjMxLTNiNDEtNGQ1ZC1hMWVlLTJjN2ZkYjJiNzUzOSIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiJkb1JlcXVlc3QgZXJyb3I6IGRvUmVxdWVzdCBmYWlsdXJlIGNvZGU6IDQwMCIsImZhbGxiYWNrIjp0cnVlfQ.hAGW7aPcL_ZQIJSY4cbsVUwNQ1FlQhANICs_fmEYPdY |
@@ -215,7 +215,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 21.50 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjY0NTExLCJjYWxkZXJhR3VpZCI6IjAyYjI2MGZkLWMzMDctNGNjYi1hM2NiLWZhOTczYTczZTFkMCIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiJkb1JlcXVlc3QgZXJyb3I6IGRvUmVxdWVzdCBmYWlsdXJlIGNvZGU6IDQwMCIsImZhbGxiYWNrIjp0cnVlfQ.hn-FZ3yhrP6efNh3ss535NTPl6EeCwzcZu11WfGnJTg |
 | 21.51 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjY0NjA5LCJjYWxkZXJhR3VpZCI6ImNmODMyZGMyLTlkNmItNDNmNy04ZjBlLTE0NWFmZTA5ODk0NiIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiJkb1JlcXVlc3QgZXJyb3I6IGRvUmVxdWVzdCBmYWlsdXJlIGNvZGU6IDQwMCIsImZhbGxiYWNrIjp0cnVlfQ.8_ft7B03t0znDTaP9ikDr3h0uG20K7jSHZhKAKzQ3Cw |
 # Chapter3 Season4
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 22.00 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjY0NzkxLCJjYWxkZXJhR3VpZCI6IjgwOWIyZTliLTE3YjYtNGJjOS1hMjFhLTRkNDRlZjkxMjE2ZCIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiJkb1JlcXVlc3QgZXJyb3I6IGRvUmVxdWVzdCBmYWlsdXJlIGNvZGU6IDQwMCIsImZhbGxiYWNrIjp0cnVlfQ.E_ac1HsWJIJlrq1CYLMHYMdWol8kfdE-RInQlX5TTzw |
 | 22.10 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjY0OTAxLCJjYWxkZXJhR3VpZCI6IjkxNDU3YzI5LWJlN2UtNDI3MS05N2VhLTQzNzA2MzVlNGViMCIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiJkb1JlcXVlc3QgZXJyb3I6IGRvUmVxdWVzdCBmYWlsdXJlIGNvZGU6IDQwMCIsImZhbGxiYWNrIjp0cnVlfQ.PfWhrOdBzp1FK99WorKc1A1v4XTSrsGGbA9AmrSbOjY |
@@ -223,7 +223,7 @@ These are sort of command lines passed from FortniteLauncher.exe to the client
 | 22.30 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjY1MDg5LCJjYWxkZXJhR3VpZCI6ImY0MjZlZGZkLTcwMGUtNDZhNC1iOWQwLWI4N2YxMjQ2YjgzYiIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiJkb1JlcXVlc3QgZXJyb3I6IGRvUmVxdWVzdCBmYWlsdXJlIGNvZGU6IDQwMCIsImZhbGxiYWNrIjp0cnVlfQ.H3Jgd1iASbCfqmQ9Q6Ti5Yr28NwZp-15a049cG9mVds |
 | 22.40 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjY5MjY1MjgwLCJjYWxkZXJhR3VpZCI6IjBmYjkxN2RmLWE0NjMtNDM5Yi1hNGE3LWEwMzQ0NDVlYTY4YiIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiJkb1JlcXVlc3QgZXJyb3I6IGRvUmVxdWVzdCBmYWlsdXJlIGNvZGU6IDQwMCIsImZhbGxiYWNrIjp0cnVlfQ.vopjyIsDO-scgbcKSeidmfV1LLiPNSQ97oAHHoNtxdw |
 # Chapter4 Season1
-| Client Version  | Type | EasyAntiCheat |
+| Version  | Type | EasyAntiCheat |
 | ------------- | ------------- | ------------- |
 | 23.00 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjcwMTU3Nzg0LCJjYWxkZXJhR3VpZCI6IjBjOTIzOGUwLWE1ZDUtNDU0OC1hNjAyLTIwZWNjNzQwOTljNSIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiJkb1JlcXVlc3QgZXJyb3I6IGRvUmVxdWVzdCBmYWlsdXJlIGNvZGU6IDQwMCIsImZhbGxiYWNrIjp0cnVlfQ.cgT64ZMy-UHqB39yg3JVf8ZIu6FmWFMTv9Iz7DFmc-0 |
 | 23.10 | Caldera | -nobe -fromfl=eac -caldera=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiIiwiZ2VuZXJhdGVkIjoxNjcwOTM4OTc0LCJjYWxkZXJhR3VpZCI6IjBmOGJiM2U5LWQzOTUtNDFiMS04YjEwLTZkYjljM2I4MzU1YSIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiJkb1JlcXVlc3QgZXJyb3I6IGRvUmVxdWVzdCBmYWlsdXJlIGNvZGU6IDQwMCIsImZhbGxiYWNrIjp0cnVlfQ.6iqWrTT-6ds_MFU-lbP5cd528QaBe_VgxMC8NTSv1M0 |
